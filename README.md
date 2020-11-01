@@ -1,5 +1,3 @@
-<p align="center"><img src="https://img.shields.io/badge/VERSION-1.0.0-yellowgreen?style=for-the-badge" /></p>
-
 # Whitelisting System for ArmA 3
 
 This repository contains **all the files required** for setting up a whitelisting system using XenForo 2.1 for ArmA 3.
