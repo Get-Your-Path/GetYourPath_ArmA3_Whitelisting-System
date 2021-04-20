@@ -9,8 +9,7 @@ It's recommended to have an official version of XenForo available for purchase [
 - Several conditions in order to whitelist only members who have as main group "Member" and as sub-group "Citizen" on XenForo.
 - Logs
 
-## Configuration
-### Wiki
+## Wiki
 
 If you want to know how to install and configure this system, check out our [Wiki](https://github.com/JasonA3/Whitelisting-System/wiki) !
 
