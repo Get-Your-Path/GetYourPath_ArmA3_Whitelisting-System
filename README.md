@@ -18,4 +18,4 @@ Please open an issue for any encountered bug, I'll do my best to correct it.
 
 If you are not familiar with the GitHub's issue system, please refer to [the documentation](https://guides.github.com/features/issues/)
 
-You can join my Discord if you want to suggest somethings or report an issue ! [Discord](https://discord.gg/GDz8zNZpCJ)
+You can join our Discord if you want to suggest somethings or report an issue ! [Discord](https://discord.gg/get-your-path-alf-a3pl-592030009158533120)
